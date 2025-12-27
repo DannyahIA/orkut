@@ -41,8 +41,8 @@ It demonstrates mastery of:
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/orkut-php.git
-    cd orkut-php
+    git clone https://github.com/DannyahIA/orkut.git
+    cd orkut
     ```
 
 2.  **Initialize the Database**
@@ -78,3 +78,4 @@ orkut-php/
 
 ---
 *Disclaimer: This is an educational project. All rights to the original Orkut brand belong to their respective owners.*
+
